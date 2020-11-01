@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "carousel_v1_webforms", "carousel_v1_webforms\", "{4DAC7520-4435-4068-A416-9826359B132B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56879"
+		Debug.AspNetCompiler.PhysicalPath = "carousel_v1_webforms\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56879\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56879"
+		Release.AspNetCompiler.PhysicalPath = "carousel_v1_webforms\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56879\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56879"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAC7520-4435-4068-A416-9826359B132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAC7520-4435-4068-A416-9826359B132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DDB964F-1D8E-4FE9-9503-7CD9EEC165C8}
+	EndGlobalSection
+EndGlobal
